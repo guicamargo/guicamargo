@@ -30,12 +30,12 @@ Desenvolvedor Fullstack com experiência em C#, JavaScript e React. Atualmente, 
 - 1
 - 2
   
-## 📊 Estatísticas do GitHub  
+<!-- ## 📊 Estatísticas do GitHub  
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img style="max-width: 45%;" src="https://github-readme-stats.vercel.app/api?username=guicamargo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
   <img style="max-width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicamargo&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</div>
+</div>-->
 
 ## 🌐 Onde me encontrar  
 
