@@ -17,9 +17,8 @@ Desenvolvedor Fullstack com experiência em C#, JavaScript e React. Atualmente, 
 - **[Nome do Projeto 3](link3)**: Breve descrição
   
 ## 📝 Formação
-- 1
-- 2
-- 3
+- **Bacharel em Engenharia de Computação** pela Universidade Estadual de Ponta Grossa - ***UEPG***
+- **Pós-graduação em Inovação, Transformação Digital e E-Gov** pela Universidade Estadual do Centro Oeste - ***UNICENTRO***
   
 ## 📚 Aprimoramento
 - 1
