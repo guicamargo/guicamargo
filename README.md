@@ -12,7 +12,7 @@ Desenvolvedor Fullstack com experiência em C#, JavaScript e React. Atualmente, 
 
 ## 🚀 [Projetos em Destaque](https://www.linkedin.com/in/guilherme-corr%C3%AAa-camargo-28265411a)
 
-- **[Portfolio frontend](https://github.com/guicamargo/portfolio-frontend)**: Breve descrição  (ex: API RESTful para gestão de tarefas).  
+- **[Portfolio frontend](https://github.com/guicamargo/portfolio-frontend)**: Página pessoal em React com informações sobre mim e meus projetos - [Demo](https://guilherme-portfolio-frontend.vercel.app/).
 - **[Nome do Projeto 2](link2)**: Breve descrição 
 - **[Nome do Projeto 3](link3)**: Breve descrição
   
